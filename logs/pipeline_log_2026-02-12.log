@@ -1,0 +1,16 @@
+2026-02-12 00:20:02,047 | INFO | Script has started
+2026-02-12 00:20:02,047 | INFO | tuition API call started.
+2026-02-12 00:22:17,078 | INFO | Script has started
+2026-02-12 00:22:17,078 | INFO | tuition API call started.
+2026-02-12 00:23:05,622 | INFO | Script has started
+2026-02-12 00:23:05,622 | INFO | tuition API call started.
+2026-02-12 00:29:50,361 | INFO | Script has started
+2026-02-12 00:29:50,361 | INFO | tuition API call started.
+2026-02-12 00:29:52,047 | INFO | tuition API call complete. Rows pulled 16858
+2026-02-12 00:29:52,070 | INFO | Starting database creation for ipeds_raw_tuition
+2026-02-12 00:29:52,111 | INFO | Table ipeds_raw_tuition has been created with 16858 rows
+2026-02-12 00:29:52,111 | INFO | directory API call started.
+2026-02-12 00:29:53,303 | INFO | directory API call complete. Rows pulled 6289
+2026-02-12 00:29:53,356 | INFO | Starting database creation for ipeds_raw_directory
+2026-02-12 00:29:53,450 | INFO | Table ipeds_raw_directory has been created with 6289 rows
+2026-02-12 00:29:53,450 | INFO | Script has ended successfully
