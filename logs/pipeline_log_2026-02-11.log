@@ -1,0 +1,50 @@
+2026-02-11 01:10:13,481 | INFO | tuition API call started.
+2026-02-11 01:10:14,603 | INFO | tuition API successfully. Status Code: 200
+2026-02-11 01:10:14,636 | INFO | directory API call started.
+2026-02-11 01:10:15,670 | INFO | directory API successfully. Status Code: 200
+2026-02-11 01:31:33,411 | INFO | tuition API call started.
+2026-02-11 01:31:34,535 | INFO | tuition API successfully. Status Code: 200
+2026-02-11 01:31:34,575 | INFO | Starting database creation for ipeds_raw_tuition
+2026-02-11 01:32:00,027 | INFO | tuition API call started.
+2026-02-11 01:32:00,832 | INFO | tuition API successfully. Status Code: 200
+2026-02-11 01:32:00,861 | INFO | Starting database creation for ipeds_raw_tuition
+2026-02-11 01:32:22,625 | INFO | tuition API call started.
+2026-02-11 01:32:23,837 | INFO | tuition API successfully. Status Code: 200
+2026-02-11 01:32:23,864 | INFO | Starting database creation for ipeds_raw_tuition
+2026-02-11 01:32:37,054 | INFO | tuition API call started.
+2026-02-11 01:32:38,018 | INFO | tuition API successfully. Status Code: 200
+2026-02-11 01:32:38,046 | INFO | Starting database creation for ipeds_raw_tuition
+2026-02-11 01:32:38,074 | INFO | Table ipeds_raw_tuition has been created with 10000 rows
+2026-02-11 01:32:38,074 | INFO | directory API call started.
+2026-02-11 01:32:39,308 | INFO | directory API successfully. Status Code: 200
+2026-02-11 01:32:39,438 | INFO | Starting database creation for ipeds_raw_directory
+2026-02-11 01:32:39,495 | INFO | Table ipeds_raw_directory has been created with 6289 rows
+2026-02-11 01:33:15,688 | INFO | tuition API call started.
+2026-02-11 01:33:16,643 | INFO | tuition API successfully. Status Code: 200
+2026-02-11 01:33:16,672 | INFO | Starting database creation for ipeds_raw_tuition
+2026-02-11 01:33:16,707 | INFO | Table ipeds_raw_tuition has been created with 10000 rows
+2026-02-11 01:33:16,707 | INFO | directory API call started.
+2026-02-11 01:33:18,176 | INFO | directory API successfully. Status Code: 200
+2026-02-11 01:33:18,316 | INFO | Starting database creation for ipeds_raw_directory
+2026-02-11 01:33:18,422 | INFO | Table ipeds_raw_directory has been created with 6289 rows
+2026-02-11 01:33:18,422 | INFO | Script has ended successfully
+2026-02-11 01:34:22,410 | INFO | Script has started
+2026-02-11 01:34:22,410 | INFO | tuition API call started.
+2026-02-11 01:34:23,380 | INFO | tuition API successfully. Status Code: 200
+2026-02-11 01:34:23,409 | INFO | Starting database creation for ipeds_raw_tuition
+2026-02-11 01:34:23,435 | INFO | Table ipeds_raw_tuition has been created with 10000 rows
+2026-02-11 01:34:23,435 | INFO | directory API call started.
+2026-02-11 01:34:24,391 | INFO | directory API successfully. Status Code: 200
+2026-02-11 01:34:24,524 | INFO | Starting database creation for ipeds_raw_directory
+2026-02-11 01:34:24,600 | INFO | Table ipeds_raw_directory has been created with 6289 rows
+2026-02-11 01:34:24,600 | INFO | Script has ended successfully
+2026-02-11 01:35:03,406 | INFO | Script has started
+2026-02-11 01:35:03,406 | INFO | tuition API call started.
+2026-02-11 01:35:04,380 | INFO | tuition API successfully. Status Code: 200
+2026-02-11 01:35:04,409 | INFO | Starting database creation for ipeds_raw_tuition
+2026-02-11 01:35:04,434 | INFO | Table ipeds_raw_tuition has been created with 10000 rows
+2026-02-11 01:35:04,434 | INFO | directory API call started.
+2026-02-11 01:35:05,716 | INFO | directory API successfully. Status Code: 200
+2026-02-11 01:35:05,844 | INFO | Starting database creation for ipeds_raw_directory
+2026-02-11 01:35:05,902 | INFO | Table ipeds_raw_directory has been created with 6289 rows
+2026-02-11 01:35:05,902 | INFO | Script has ended successfully
