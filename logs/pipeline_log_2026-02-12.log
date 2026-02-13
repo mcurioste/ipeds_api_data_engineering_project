@@ -14,3 +14,13 @@
 2026-02-12 00:29:53,356 | INFO | Starting database creation for ipeds_raw_directory
 2026-02-12 00:29:53,450 | INFO | Table ipeds_raw_directory has been created with 6289 rows
 2026-02-12 00:29:53,450 | INFO | Script has ended successfully
+2026-02-12 18:49:15,611 | INFO | Script has started
+2026-02-12 18:49:15,611 | INFO | tuition API call started.
+2026-02-12 18:49:18,247 | INFO | tuition API call complete. Rows pulled 16858
+2026-02-12 18:49:18,280 | INFO | Starting database creation for ipeds_raw_tuition
+2026-02-12 18:49:18,382 | INFO | Table ipeds_raw_tuition has been created with 16858 rows
+2026-02-12 18:49:18,382 | INFO | directory API call started.
+2026-02-12 18:49:19,742 | INFO | directory API call complete. Rows pulled 6289
+2026-02-12 18:49:19,804 | INFO | Starting database creation for ipeds_raw_directory
+2026-02-12 18:49:20,002 | INFO | Table ipeds_raw_directory has been created with 6289 rows
+2026-02-12 18:49:20,002 | INFO | Script has ended successfully
