@@ -24,3 +24,16 @@
 2026-02-12 18:49:19,804 | INFO | Starting database creation for ipeds_raw_directory
 2026-02-12 18:49:20,002 | INFO | Table ipeds_raw_directory has been created with 6289 rows
 2026-02-12 18:49:20,002 | INFO | Script has ended successfully
+2026-02-12 20:05:32,281 | INFO | Script has started
+2026-02-12 20:05:32,281 | INFO | tuition API call started.
+2026-02-12 20:05:35,768 | INFO | tuition API call complete. Rows pulled 16858
+2026-02-12 20:05:35,795 | INFO | Starting database creation for ipeds_raw_tuition
+2026-02-12 20:05:35,872 | INFO | Table ipeds_raw_tuition has been created with 16858 rows
+2026-02-12 20:05:35,872 | INFO | directory API call started.
+2026-02-12 20:05:37,926 | INFO | directory API call complete. Rows pulled 6289
+2026-02-12 20:05:38,000 | INFO | Starting database creation for ipeds_raw_directory
+2026-02-12 20:05:38,223 | INFO | Table ipeds_raw_directory has been created with 6289 rows
+2026-02-12 20:05:42,308 | INFO | df was created successfully by file path: https://www2.census.gov/programs-surveys/popest/geographies/2021/all-geocodes-v2021.xlsx with rows: 43833
+2026-02-12 20:05:42,312 | INFO | Starting database creation for ipeds_raw_cips_file
+2026-02-12 20:05:42,406 | INFO | Table ipeds_raw_cips_file has been created with 43833 rows
+2026-02-12 20:05:42,406 | INFO | Script has ended successfully

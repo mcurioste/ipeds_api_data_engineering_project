@@ -18,7 +18,7 @@ url_dict_api = {
 }
 
 url_dict_excel_csv = {
-    "cips_file": "https://www2.census.gov/programs-surveys/popest/geographies/2021/all-geocodes-v2021.xlsx"
+    "fips_file": "https://www2.census.gov/programs-surveys/popest/geographies/2021/all-geocodes-v2021.xlsx"
 }
 
 def api_call(api_name : str, url : str) -> pd.DataFrame:
@@ -64,7 +64,7 @@ def to_database(df : pd.DataFrame, table_name : str):
         ingest_df.to_sql(table_name, conn, if_exists="replace", index=False)
         log.info(f"Table {table_name} has been created with {ingest_df.shape[0]} rows")
 
-if __name__ == "__main__":
+def main():
     log.info("Script has started")
 
     for key,item in url_dict_api.items():
@@ -76,5 +76,8 @@ if __name__ == "__main__":
         to_database(df,f"ipeds_raw_{key}")
 
     log.info("Script has ended successfully")
+
+if __name__ == "__main__":
+    main()
 
 
